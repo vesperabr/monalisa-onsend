@@ -1,16 +1,16 @@
 {
-    "name": "@vesperabr/monalisa-onsend",
-    "title": "Monalisa Onsend",
-    "version": "1.0.0",
-    "description": "Onsend plugin for Monalisa.",
-    "author": "Véspera Tecnologia",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/vesperabr/monalisa-onsend"
-    },
-    "license": "MIT",
-    "sass": "src/onsend.scss",
-    "main": "src/onsend.js",
-    "dependencies": {},
-    "devDependencies": {}
+  "name": "@vesperabr/monalisa-onsend",
+  "title": "Monalisa Onsend",
+  "version": "1.0.1",
+  "description": "Onsend plugin for Monalisa.",
+  "author": "Véspera Tecnologia",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vesperabr/monalisa-onsend"
+  },
+  "license": "MIT",
+  "sass": "src/onsend.scss",
+  "main": "src/onsend.js",
+  "dependencies": {},
+  "devDependencies": {}
 }
